@@ -1,0 +1,16 @@
+{
+  "name": "express",
+  "version": "4.19.2",
+  "description": "express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "exceljs": "^4.4.0",
+    "express": "^4.19.2"
+  }
+}
